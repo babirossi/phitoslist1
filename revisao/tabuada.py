@@ -21,4 +21,5 @@ while True:
     break
 print(f'Acertos {geralacertos} - Erros {geralerros}')
 
+
      
