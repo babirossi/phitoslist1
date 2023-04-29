@@ -3,7 +3,7 @@ print (lista[-2])
 #numero positivo vai contar de frente para traz
 #numero negativo vai contar de tras para frente 
 
-lista .append('E')
+lista.append('E')
 print(lista)
 
 lista  = lista + ['F', 'G']
